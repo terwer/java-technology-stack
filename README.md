@@ -118,6 +118,8 @@ Dubbo
 
 《Effective Java》
 
+《深入理解Java虚拟机》
+
 ## 第三阶段
 
 《构建高性能Web站点》

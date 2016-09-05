@@ -19,7 +19,7 @@ String
 
 Object(hashCode,equals)
 
-UML，依赖，封装，继承，多态
+UML,依赖,封装,继承,多态
 
 ## 集合(Collection)
 
@@ -33,8 +33,7 @@ http,https,ssl证书
 
 ## 多线程(Thread)
 
-Thread
-runnable
+Thread,runnable
 
 ## IO
 
@@ -62,7 +61,7 @@ Tomcat、jetty
 
 图表（echarts）
 
-＃ 负载均衡
+# 负载均衡
 
 共享Session
 
@@ -74,7 +73,7 @@ Linux
 
 MySQL,Oracle
 
-分库分表、垂直拆分、水平拆分
+分库分表,垂直拆分,水平拆分
 
 # Java EE
 
@@ -90,7 +89,7 @@ Haddop
 
 # 消息队列
 
-RabbitMQ，ActiveMQ
+RabbitMQ,ActiveMQ
 
 # 定时任务
 
@@ -98,7 +97,7 @@ Quartz
 
 # 缓存
 
-redis、memcache
+redis,memcache
 
 # 微服务
 
@@ -123,7 +122,4 @@ Dubbo
 ## 第三阶段
 
 《构建高性能Web站点》
-
-
-
 

@@ -6,9 +6,13 @@ The Java Technology Stack
 ## 数据类型(Data Type)
 
 byte Byte
+
 int Integer
+
 short Short
+
 long Long
+
 String
 
 ## 面向对象(OOP)
@@ -53,6 +57,10 @@ ant,maven,gradle
 HTML,JavaScript,CSS
 
 Tomcat、jetty
+
+单点登陆
+
+图表（echarts）
 
 ＃ 负载均衡
 

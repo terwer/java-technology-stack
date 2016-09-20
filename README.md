@@ -63,9 +63,11 @@ Tomcat,jetty
 
 图表（echarts）
 
-# 负载均衡
+负载均衡,共享Session
 
-共享Session
+# Java EE
+
+Spring,Spring MVC,Spring boot,Hibernate,MyBatis
 
 # 操作系统
 
@@ -76,10 +78,6 @@ Linux
 MySQL,Oracle
 
 分库分表,垂直拆分,水平拆分
-
-# Java EE
-
-Spring,Spring MVC,Spring boot,Hibernate,MyBatis
 
 # 设计模式
 
